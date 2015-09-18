@@ -6,7 +6,7 @@ module.exports = function(grunt) {
         	'assets/stylesheets/common.css': 'assets/stylesheets/src/common.scss',
         	'assets/stylesheets/land.css': 'assets/stylesheets/src/land.scss'   
       	}
-    	}
+    	} 
   	},
   	watch: {
   		css: {
